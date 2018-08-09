@@ -1,2 +1,13 @@
-# XHIBITION-TRAVIS
-Added proxy support(user/pass as well as IP auth) as well as config file for easy use
+# XHIBITION SNEAKER RAFFLE
+
+This program performs mass entries for the Xhibition raffle form.
+
+## Current Optimization
+
+- Travis Scott AF1 Sail
+
+## Features
+
+Proxy support (both user/pass and IP Auth)
+Catchall support
+Randomly generated emails
